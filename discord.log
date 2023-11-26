@@ -1,0 +1,21 @@
+[2023-11-24 22:33:49,820] ERROR: Failed to load cog: cogs.database. Error: Extension 'cogs.database' raised an error: ModuleNotFoundError: No module named 'psycopg2'
+[2023-11-24 22:35:39,104] INFO: Loaded cog: cogs.database
+[2023-11-24 22:37:16,824] INFO: Loaded cog: cogs.database
+[2023-11-24 22:38:58,220] INFO: Loaded cog: cogs.database
+[2023-11-24 22:39:01,344] INFO: Logged in as HELIUX!
+[2023-11-24 22:48:05,812] INFO: Loaded cog: cogs.database
+[2023-11-24 22:48:09,016] INFO: Logged in as HELIUX
+[2023-11-24 22:48:43,646] INFO: Loaded cog: cogs.database
+[2023-11-24 22:48:46,861] INFO: Logged in as HELIUX
+[2023-11-24 22:54:32,870] INFO: Loaded cog: cogs.database
+[2023-11-24 22:54:36,043] INFO: Logged in as HELIUX
+[2023-11-24 23:06:58,351] INFO: Loaded cog: cogs.database
+[2023-11-24 23:07:01,472] INFO: Logged in as HELIUX
+[2023-11-24 23:07:08,697] INFO: Loaded cog: cogs.database
+[2023-11-24 23:07:11,925] INFO: Logged in as HELIUX
+[2023-11-25 00:21:58,184] INFO: Loaded cog: cogs.database
+[2023-11-25 00:22:01,362] INFO: Logged in as HELIUX
+[2023-11-25 12:46:26,509] INFO: Loaded cog: cogs.database
+[2023-11-25 12:46:29,858] INFO: Logged in as HELIUX
+[2023-11-26 15:58:53,508] INFO: Loaded cog: cogs.database
+[2023-11-26 15:58:56,718] INFO: Logged in as HELIUX
